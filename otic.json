@@ -1,1 +1,89 @@
+[
+  {
+    "area": "Datos y Programación",
+    "cursos": [
+      { "nombre": "Análisis de Datos con Excel" },
+      { "nombre": "Inteligencia de Negocios con Excel" },
+      { "nombre": "Power BI – Básico" },
+      { "nombre": "Power BI – Intermedio" },
+      { "nombre": "Watch: Análisis de Datos con Power BI Expert" },
+      { "nombre": "Programación en PYTHON Básico" },
+      { "nombre": "Programación en PYTHON Intermedio" },
+      { "nombre": "Machine Learning con Python" },
+      { "nombre": "SQL – Base de Datos 1" },
+      { "nombre": "Introducción a JavaScript" },
+      { "nombre": "Fundamentos de Programación con R" }
+    ]
+  },
+  {
+    "area": "Ofimática y Certificaciones",
+    "cursos": [
+      { "nombre": "Excel con Macros" },
+      { "nombre": "Fundamentos de Linux" },
+      { "nombre": "Fundamentos de JAVA" },
+      { "nombre": "Fundamentos de PHP" },
+      { "nombre": "Fundamentos de SSOMA" }
+    ]
+  },
+  {
+    "area": "Gestión y Proyectos",
+    "cursos": [
+      { "nombre": "Fundamentos de Gestión de Proyectos – Scrum" },
+      { "nombre": "Fundamentos de Gestión de Proyectos – PMI I" },
+      { "nombre": "Fundamentos de Gestión de Proyectos – PMI II" },
+      { "nombre": "MS Project aplicado a la Gestión de Proyectos" },
+      { "nombre": "Lean Manufacturing" },
+      { "nombre": "Six Sigma" },
+      { "nombre": "Fundamentos de Proyectos de Inversión Pública" },
+      { "nombre": "BPM con Bizagi" }
+    ]
+  },
+  {
+    "area": "Normas y Gestión Integral",
+    "cursos": [
+      { "nombre": "Fundamentos ISO 9001 – Calidad" },
+      { "nombre": "Fundamentos ISO 14001 – Gestión Ambiental" },
+      { "nombre": "Fundamentos ISO 27001 – Seguridad de la Información" },
+      { "nombre": "Fundamentos ISO 31000 – Gestión de Riesgos" },
+      { "nombre": "Fundamentos ISO 45001 – SSOMA" },
+      { "nombre": "Fundamentos ISO 50001 – Gestión Energética" },
+      { "nombre": "Fundamentos de Sistemas Integrados de Gestión" }
+    ]
+  },
+  {
+    "area": "Diseño y CAD",
+    "cursos": [
+      { "nombre": "Autocad 1: Planos a Escala" },
+      { "nombre": "Autocad 2: Isometría e Impresión" },
+      { "nombre": "Autocad 3: Renderizado e Iluminación" },
+      { "nombre": "Autodesk Inventor" },
+      { "nombre": "Modelado Edificaciones BIM (Revit)" },
+      { "nombre": "Solidworks" },
+      { "nombre": "Diseño Gráfico con IA" },
+      { "nombre": "Diseño e Impresión 3D" },
+      { "nombre": "Diseño y Fabricación de PCBs" },
+      { "nombre": "LATEX" }
+    ]
+  },
+  {
+    "area": "Seguridad y Redes",
+    "cursos": [
+      { "nombre": "Ciberseguridad Básica" },
+      { "nombre": "Concientización en Ciberseguridad" },
+      { "nombre": "CyberSOC (Ciberseguridad avanzada)" },
+      { "nombre": "Ethical Hacking" },
+      { "nombre": "Pentesting Web" },
+      { "nombre": "Fundamentos de Redes (TCP/IP)" }
+    ]
+  },
+  {
+    "area": "Cloud & Big Data",
+    "cursos": [
+      { "nombre": "Cloud Computing (AWS/Azure/Google Cloud)" },
+      { "nombre": "Geoinformática y Teledetección Aplicada" },
+      { "nombre": "Ciencia de Datos 1: EDA" },
+      { "nombre": "Ciencia de Datos 2: Big Data" }
+    ]
+  }
+]
 
